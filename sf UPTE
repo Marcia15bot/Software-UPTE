@@ -1,0 +1,33 @@
+# Sistema Web de Gestión de Inscripción para Cursos para Personas Mayores en la UPTE
+
+## Descripción
+Este sistema web permite a las personas mayores inscribirse fácilmente en los cursos ofrecidos por la UPTE, facilitando la gestión de inscripciones, visualización de cursos y notificaciones de confirmación.
+
+## Módulos del Proyecto
+1. **Registro de Usuarios**: Permite el registro de usuarios mayores en la plataforma.
+2. **Búsqueda de Cursos**: Permite la búsqueda y visualización de cursos disponibles.
+3. **Inscripción a Cursos**: Permite la inscripción de usuarios en los cursos seleccionados.
+4. **Gestión de Cursos**: Permite a los coordinadores de cursos agregar, editar y eliminar cursos.
+
+## Integrantes del Proyecto
+- **Paredes Torrez Luis Angel**: Analista de Calidad de Software
+- **Miranda Pinto Marcia Lucia**: Coach y Programadora Front End
+- **Siles Barrenechea Rodny Gerald**: Programador Back End
+
+## Herramientas de Desarrollo
+- **Frontend**: HTML5, CSS3, JavaScript (React o Angular).
+- **Backend**: Node.js con Express.
+- **Base de Datos**: MySQL.
+- **Control de Versiones**: Git y GitHub.
+
+## Gestor de Base de Datos
+El sistema utiliza MySQL como gestor de base de datos para almacenar los datos de usuarios, cursos e inscripciones.
+
+## Diagrama de Base de Datos
+El diagrama de la base de datos se puede encontrar en el documento de especificación de requisitos del sistema.
+
+## Instrucciones de Instalación
+1. Clonar el repositorio: `git clone https://github.com/not-found-404/repo-inscripcion-cursos.git`.
+2. Instalar dependencias: `npm install`.
+3. Configurar la base de datos según el archivo `.env`.
+4. Iniciar el servidor: `npm start`.
