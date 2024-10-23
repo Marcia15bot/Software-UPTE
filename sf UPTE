@@ -27,7 +27,7 @@ El sistema utiliza MySQL como gestor de base de datos para almacenar los datos d
 El diagrama de la base de datos se puede encontrar en el documento de especificación de requisitos del sistema.
 
 ## Instrucciones de Instalación
-1. Clonar el repositorio: `git clone https://github.com/not-found-404/repo-inscripcion-cursos.git`.
+1. Clonar el repositorio: `git clone https://github.com/Marcia15bot/Software-UPTE.git`.
 2. Instalar dependencias: `npm install`.
 3. Configurar la base de datos según el archivo `.env`.
 4. Iniciar el servidor: `npm start`.
